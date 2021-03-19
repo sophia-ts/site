@@ -17,6 +17,7 @@ events:
   - plato4
   - videoplace
   - xerox-star-pc
+  - 3d-printer
   - apple-macintosh-1984
   - mediaspace
   - canon-cat

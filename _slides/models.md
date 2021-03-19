@@ -20,5 +20,7 @@ slides:
   - microsoft-bob
   - ical
   - atm-affective
+  - mp3-player
+  - 3d-printer
 ---
 

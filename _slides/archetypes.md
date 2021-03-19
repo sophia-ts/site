@@ -18,4 +18,6 @@ slides:
   - minecraft-pi
   - input-comparison
   - mouse-test-software
+  - mp3-player
+  - 3d-printer
 ---

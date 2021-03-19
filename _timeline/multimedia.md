@@ -6,6 +6,7 @@ caption: Τα πολυμεσικά συστήματα αποτελούν ένα 
 events:
   - sword-of-damocles
   - aspen-movie-map 
+  - mp3-player
   - videoplace
   - apple-macintosh-1984
   - mediaspace

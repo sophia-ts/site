@@ -20,4 +20,6 @@ slides:
   - knuth-fonts
   - squeakos
   - sugar-neighborhood
+  - debian
+  - gimp
 ---

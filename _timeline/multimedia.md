@@ -14,6 +14,7 @@ events:
   - www
   - digital-desk
   - windows95
+  - gimp
   - winamp
   - media-scrub
 ---

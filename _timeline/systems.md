@@ -24,6 +24,7 @@ events:
   - hypercard
   - weiser-tab-pad-board
   - www
+  - debian
   - digital-desk
   - windows95
   - lifestreams

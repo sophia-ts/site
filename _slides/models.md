@@ -22,5 +22,7 @@ slides:
   - atm-affective
   - mp3-player
   - 3d-printer
+  - debian
+  - gimp
 ---
 

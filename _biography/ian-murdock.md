@@ -10,7 +10,6 @@ tags:
   - Ian Murdock
   - Debian
   - Linux
-
 ---
 
 {% include_relative bio-murdock.md %}

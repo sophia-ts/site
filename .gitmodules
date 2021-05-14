@@ -22,6 +22,3 @@
 	path = _bibliography
 	url = https://github.com/pibook/bibliography.git
 	branch = master
-[submodule "extras"]
-	path = extras
-	url = git@github.com:sophia-ts/extras.git

@@ -19,6 +19,6 @@ gallery:
     caption: "Τα Debian 8 με την ονομασία "Jessie" εμφανίστηκαν το 2015 με περισσότερα από 43,000 πακέτα, περιέχοντας systemd αντί του init που είχαν προηγούμενες εκδώσεις."  
 ---
 
-{% include extras/cs-windows.md %}
+{% include extras/cs-debian.md %}
 
 {% include gallery %}

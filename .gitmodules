@@ -1,14 +1,14 @@
 [submodule "images"]
 	path = images
-	url = git@github.com:sophia-ts/images.git
+	url = https://github.com/sophia-ts/images.git
     branch = master
 [submodule "_gallery"]
 	path = _gallery
-	url = git@github.com:sophia-ts/_gallery.git
+	url = https://github.com/sophia-ts/_gallery.git
 	branch = master
 [submodule "_includes/extras"]
 	path = _includes/extras
-	url = git@github.com:sophia-ts/extras.git 
+	url = https://github.com/sophia-ts/extras.git 
 	branch = master
 [submodule "_quotes"]
 	path = _quotes

@@ -12,5 +12,5 @@ tags:
   - Linux
 ---
 
-{% include bio-murdock.md %}
+{% include_relative bio-murdock.md %}
 
